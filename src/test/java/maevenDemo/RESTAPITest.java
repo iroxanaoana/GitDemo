@@ -17,5 +17,9 @@ public class RESTAPITest {
 	public void testGit() {
 		System.out.println("I made a change to comit on Git");
 	}
+	@Test
+	public void testGit2() {
+		System.out.println("I made mix changes");
+	}
 
 }
